@@ -2,7 +2,7 @@
 @section('main')
 
 @section('title')
-Home | EasyLearning Website
+Home | See Events
 @endsection
     <!-- banner-area -->
     @include('frontend.home_all.home_slide')
@@ -19,8 +19,8 @@ Home | EasyLearning Website
     <div class="row align-items-center justify-content-between">
     <div class="col-xl-5 col-lg-6 col-md-8">
     <div class="section__title">
-    <span class="sub-title">02 - my Services</span>
-    <h2 class="title">Creates amazing digital experiences</h2>
+    <span class="sub-title">02 - our Services</span>
+    <h2 class="title">We create amazing digital experiences</h2>
     </div>
     </div>
     <div class="col-xl-5 col-lg-6 col-md-4">
